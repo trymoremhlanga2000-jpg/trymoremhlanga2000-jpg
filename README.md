@@ -78,7 +78,7 @@
 ### 📊 *Credit Risk Prediction* | Loan Default ML System
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trymoremhlanga2000-jpg/Credit-risk)
 
-Python • Pandas • NumPy • scikit-learn • Streamlit
+Python • Pandas • NumPy • scikit-learn • Joblib • Git • GitHub • Streamlit • VS Code
 
 🔹 *End-to-end ML solution* predicting loan defaults with up to 92% accuracy  
 🔹 *Feature engineering and model comparison* including ensemble techniques  
@@ -87,10 +87,10 @@ Python • Pandas • NumPy • scikit-learn • Streamlit
 
 ---
 
-### 🎬 *Netflix Interactive Dashboard* | Streaming Content Insights
+### 🎬 *Netflix Interactive Dashboard* | Streaming Insights
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trymoremhlanga2000-jpg/Netflix-Interactive-Dashboard)
 
-Streamlit • Pandas • Plotly • NumPy
+Streamlit • Python • Pandas • Plotly • NumPy • Git • GitHub
 
 🔹 *Real-time filtering and visualizations* for 5,000+ Netflix titles  
 🔹 *Dynamic exploration of genres, release years, and countries*  
@@ -99,10 +99,10 @@ Streamlit • Pandas • Plotly • NumPy
 
 ---
 
-### 🤖 *Movie Revenue Prediction* | Box Office Forecasting App
+### 🤖 *Movie Revenue Prediction* | Forecasting App
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trymoremhlanga2000-jpg/Prediction-of-Movie-Revenue)
 
-Python • Pandas • NumPy • scikit-learn • Streamlit
+Python • Pandas • NumPy • scikit-learn • Joblib • Git • GitHub • Streamlit
 
 🔹 *Predicts movie revenue and ROI in real-time*  
 🔹 *Data preprocessing of 5000+ movie records*  
@@ -111,10 +111,10 @@ Python • Pandas • NumPy • scikit-learn • Streamlit
 
 ---
 
-### 📊 *Customer Churn Prediction* | Subscriber Retention ML System
+### 📊 *Customer Churn Prediction* | Retention ML System
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trymoremhlanga2000-jpg/Customer-Churn)
 
-Python • Pandas • NumPy • scikit-learn • Streamlit
+Python • Pandas • NumPy • scikit-learn • Joblib • Git • GitHub • Streamlit
 
 🔹 *Predicts which customers are likely to leave a service*  
 🔹 *Applied Logistic Regression & Random Forest models achieving 80%+ accuracy*  
@@ -123,10 +123,10 @@ Python • Pandas • NumPy • scikit-learn • Streamlit
 
 ---
 
-### 📊 *Loan Approval Prediction* | Bank Application ML System
+### 📊 *Loan Approval Prediction* | Loan Approval ML System
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trymoremhlanga2000-jpg/Loan-Default-Prediction)
 
-Python • Pandas • NumPy • scikit-learn • Streamlit
+Python • Pandas • NumPy • scikit-learn • Joblib • Git • GitHub • Streamlit
 
 🔹 *Analyzes factors influencing loan approvals*  
 🔹 *Applied multiple ML models to predict loan approval probability*  
@@ -137,7 +137,7 @@ Python • Pandas • NumPy • scikit-learn • Streamlit
 ### 📊 *Sine-Type II Half Logistic Weibull Distribution* | Probability Explorer
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trymoremhlanga2000-jpg/Sine-Type-II-Half-Logistic-Weibull-Distribution)
 
-Python • Streamlit • NumPy • Matplotlib • Plotly
+Python • Streamlit • NumPy • Matplotlib • Plotly. Git • GitHub
 
 🔹 *Interactive probability distribution explorer*  
 🔹 *Supports Sine-Type II, Half Logistic Weibull, and related distributions*  
@@ -148,7 +148,7 @@ Python • Streamlit • NumPy • Matplotlib • Plotly
 
 ---
 
-## 🖼️ *Projects Showcase Carousel*
+## 🖼️ *Projects Showcase*
 
 <div align="center">
 
