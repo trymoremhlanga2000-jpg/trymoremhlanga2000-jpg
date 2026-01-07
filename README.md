@@ -71,7 +71,6 @@
 </div>
 
 ---
-
 ## 🏆 *Projects*
 
 <div align="center">
@@ -110,11 +109,46 @@ Python • Pandas • NumPy • scikit-learn • Streamlit
 🔹 *Scenario analysis and feature importance exploration*  
 🔹 *Interactive dashboard for content and financial insights*
 
+---
+
+### 📊 *Customer Churn Prediction* | Subscriber Retention ML System
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trymoremhlanga2000-jpg/Customer-Churn)
+
+Python • Pandas • NumPy • scikit-learn • Streamlit
+
+🔹 *Predicts which customers are likely to leave a service*  
+🔹 *Applied Logistic Regression & Random Forest models achieving 80%+ accuracy*  
+🔹 *End-to-end ML workflow with feature engineering, training, evaluation, and deployment*  
+🔹 *Interactive app for real-time churn insights*
+
+---
+
+### 📊 *Loan Approval Prediction* | Bank Application ML System
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trymoremhlanga2000-jpg/Loan-Default-Prediction)
+
+Python • Pandas • NumPy • scikit-learn • Streamlit
+
+🔹 *Analyzes factors influencing loan approvals*  
+🔹 *Applied multiple ML models to predict loan approval probability*  
+🔹 *Clean data pipelines and interactive analysis dashboard*  
+
+---
+
+### 📊 *Sine-Type II Half Logistic Weibull Distribution* | Probability Explorer
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trymoremhlanga2000-jpg/Sine-Type-II-Half-Logistic-Weibull-Distribution)
+
+Python • Streamlit • NumPy • Matplotlib • Plotly
+
+🔹 *Interactive probability distribution explorer*  
+🔹 *Supports Sine-Type II, Half Logistic Weibull, and related distributions*  
+🔹 *Real-time visualization of PDF, CDF, survival and hazard functions*  
+🔹 *Feature sliders for parameter tuning and immediate feedback*  
+
 </div>
 
 ---
 
-## 🖼️ *Projects Showcase*
+## 🖼️ *Projects Showcase Carousel*
 
 <div align="center">
 
@@ -124,6 +158,10 @@ Python • Pandas • NumPy • scikit-learn • Streamlit
 
 <a href="https://github.com/trymoremhlanga2000-jpg/Prediction-of-Movie-Revenue" title="Movie Revenue Prediction: Forecasting app with ROI and revenue insights"><img src="https://raw.githubusercontent.com/trymoremhlanga2000-jpg/Prediction-of-Movie-Revenue/main/assets/movie-revenue.png" width="250" style="margin:5px;border-radius:15px;transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"></a>
 
+<a href="https://github.com/trymoremhlanga2000-jpg/Customer-Churn" title="Customer Churn Prediction: ML system predicting subscriber churn"><img src="https://raw.githubusercontent.com/trymoremhlanga2000-jpg/Customer-Churn/main/assets/customer-churn.png" width="250" style="margin:5px;border-radius:15px;transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"></a>
+
+<a href="https://github.com/trymoremhlanga2000-jpg/Loan-Default-Prediction" title="Loan Approval Prediction: ML system for bank loan approvals"><img src="https://raw.githubusercontent.com/trymoremhlanga2000-jpg/Loan-Default-Prediction/main/assets/loan-approval.png" width="250" style="margin:5px;border-radius:15px;transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"></a>
+
 <a href="https://github.com/trymoremhlanga2000-jpg/Sine-Type-II-Half-Logistic-Weibull-Distribution" title="Sine-Type II Distribution: Interactive probability distribution explorer"><img src="https://raw.githubusercontent.com/trymoremhlanga2000-jpg/Sine-Type-II-Half-Logistic-Weibull-Distribution/main/assets/distribution.png" width="250" style="margin:5px;border-radius:15px;transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"></a>
 
 </div>
@@ -132,7 +170,8 @@ Python • Pandas • NumPy • scikit-learn • Streamlit
 
 ---
 
-## 💼 Professional Journey
+
+## 💼 Internship
 
 <details>
 <summary><b>🌐 Loans Officer - Probfix Financial Services</b> <i>(Mar 2023 - Oct 2023)</i></summary>
