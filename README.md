@@ -97,7 +97,7 @@ Python • Pandas • NumPy • scikit-learn • Streamlit
 
 ---
 
-## 🖼️ *Ultra-Modern Projects Showcase Carousel*
+## 🖼️ *Projects Showcase*
 
 <div align="center">
 
@@ -111,7 +111,7 @@ Python • Pandas • NumPy • scikit-learn • Streamlit
 
 </div>
 
-<p align="center"><i>💡 Hover over each project for details. Click images to open the GitHub repo. Carousel images are styled to scale slightly on hover for a modern interactive feel.</i></p>
+<p align="center"><i>💡 Hover over each project for details</i></p>
 
 ---
 
