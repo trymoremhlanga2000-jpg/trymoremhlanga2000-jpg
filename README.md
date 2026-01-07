@@ -55,7 +55,7 @@
 
 ---
 
-## 🏆 *Featured Projects*
+## 🏆 *Projects*
 
 <div align="center">
   
