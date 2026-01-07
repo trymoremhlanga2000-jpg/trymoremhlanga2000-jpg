@@ -97,26 +97,44 @@ Python • Pandas • NumPy • scikit-learn • Streamlit
 
 ---
 
-## 💼 *Professional Journey*
+## 🖼️ *Ultra-Modern Projects Showcase Carousel*
+
+<div align="center">
+
+<a href="https://github.com/trymoremhlanga2000-jpg/Credit-risk" title="Credit Risk Prediction: End-to-end ML system predicting loan defaults"><img src="https://raw.githubusercontent.com/trymoremhlanga2000-jpg/Credit-risk/main/assets/credit-risk.png" width="250" style="margin:5px;border-radius:15px;transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"></a>
+
+<a href="https://github.com/trymoremhlanga2000-jpg/Netflix-Interactive-Dashboard" title="Netflix Dashboard: Interactive content insights with real-time filtering"><img src="https://raw.githubusercontent.com/trymoremhlanga2000-jpg/Netflix-Interactive-Dashboard/main/assets/netflix-dashboard.png" width="250" style="margin:5px;border-radius:15px;transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"></a>
+
+<a href="https://github.com/trymoremhlanga2000-jpg/Prediction-of-Movie-Revenue" title="Movie Revenue Prediction: Forecasting app with ROI and revenue insights"><img src="https://raw.githubusercontent.com/trymoremhlanga2000-jpg/Prediction-of-Movie-Revenue/main/assets/movie-revenue.png" width="250" style="margin:5px;border-radius:15px;transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"></a>
+
+<a href="https://github.com/trymoremhlanga2000-jpg/Sine-Type-II-Half-Logistic-Weibull-Distribution" title="Sine-Type II Distribution: Interactive probability distribution explorer"><img src="https://raw.githubusercontent.com/trymoremhlanga2000-jpg/Sine-Type-II-Half-Logistic-Weibull-Distribution/main/assets/distribution.png" width="250" style="margin:5px;border-radius:15px;transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"></a>
+
+</div>
+
+<p align="center"><i>💡 Hover over each project for details. Click images to open the GitHub repo. Carousel images are styled to scale slightly on hover for a modern interactive feel.</i></p>
+
+---
+
+## 💼 Professional Journey
 
 <details>
 <summary><b>🌐 Loans Officer - Probfix Financial Services</b> <i>(Mar 2023 - Oct 2023)</i></summary>
 
-- 📊 *Cleaned and organized client data* improving report accuracy by 10%  
-- 🤝 *Supported loan assessments* for 50+ applications monthly  
-- ⏰ *Prepared weekly financial summaries* guiding key decisions  
-- 🗄 *Managed Excel and database systems* with 100% data accuracy  
+- 📊 Cleaned and organized client data improving report accuracy by 10%  
+- 🤝 Supported loan assessments for 50+ applications monthly  
+- ⏰ Prepared weekly financial summaries guiding key decisions  
+- 🗄 Managed Excel and database systems with 100% data accuracy  
 
 </details>
 
 ---
 
-## 🎓 *Education*
+## 🎓 Education
 
 <details>
 <summary><b>🎓 BSc (Hons) Applied Statistics – First Class</b></summary>
 
-**Midlands State University, Zimbabwe** *(2021 - 2025)*  
+*Midlands State University, Zimbabwe* (2021 - 2025)  
 - Strong foundation in probability, predictive modeling, and analytics  
 - Final-year research: Credit risk prediction using Multi-Layer Perceptron + Reject Inference  
 - Exposure to Python, R, STATA, SQL, Tableau, Power BI  
@@ -125,7 +143,7 @@ Python • Pandas • NumPy • scikit-learn • Streamlit
 
 ---
 
-## 📊 *GitHub Analytics*
+## 📊 GitHub Analytics
 
 <div align="center">
   
@@ -142,7 +160,7 @@ Python • Pandas • NumPy • scikit-learn • Streamlit
 
 ---
 
-## 🌐 *Let's Connect & Build Together!*
+## 🌐 Let's Connect & Build Together!
 
 <div align="center">
   
@@ -157,9 +175,9 @@ Python • Pandas • NumPy • scikit-learn • Streamlit
 
 <div align="center">
   
-### 💭 *"My name is Mr StatMlops"*
+### 💭 "My name is Mr StatMlops"
 
-*Thanks for visiting! Let's turn data into insights together! 📊*
+Thanks for visiting! Let's turn data into insights together! 📊
 
 ![Profile Views](https://komarev.com/ghpvc/?username=trymoremhlanga2000-jpg&color=blueviolet&style=flat-square&label=Profile+Views)
 
