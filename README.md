@@ -142,14 +142,6 @@ Python • Pandas • NumPy • scikit-learn • Streamlit
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trymoremhlanga2000-jpg&theme=discord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 🌐 *Let's Connect & Build Together!*
 
 <div align="center">
@@ -165,7 +157,7 @@ Python • Pandas • NumPy • scikit-learn • Streamlit
 
 <div align="center">
   
-### 💭 *"In God we trust. All others must bring data."* - W. Edwards Deming
+### 💭 *"My name is Mr StatMlops"*
 
 *Thanks for visiting! Let's turn data into insights together! 📊*
 
