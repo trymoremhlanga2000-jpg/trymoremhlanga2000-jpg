@@ -10,7 +10,11 @@
 
 ## 🚀 About Me
 
-> *Statistician and aspiring Data Scientist passionate about turning complex data into actionable insights and deploying interactive analytics solutions.*
+> *Statistician/Data Scientist and Machine Learning Engineer passionate about turning complex data into actionable insights and deploying interactive analytics solutions.*
+
+**Portfolio***
+
+https://trymoremhlanga2000-jpg.github.io
 
 - 🎓 **BSc (Hons) in Applied Statistics** – First Class, Midlands State University, Zimbabwe
 - 📍 Based in **Ruwa, Harare**
