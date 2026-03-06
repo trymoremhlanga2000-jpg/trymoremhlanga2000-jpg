@@ -12,7 +12,7 @@
 
 > *Statistician/Data Scientist and Machine Learning Engineer passionate about turning complex data into actionable insights and deploying interactive analytics solutions.*
 
-**Portfolio***
+**My Portfolio**
 
 https://trymoremhlanga2000-jpg.github.io
 
