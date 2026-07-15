@@ -406,6 +406,5 @@ Monitoring & Continuous Improvement
 | 🎬 **Movie Revenue Prediction** | Predicts movie revenue and ROI using machine learning. | Python • Pandas • Streamlit |
 | 📺 **Netflix Interactive Dashboard** | Interactive dashboard for exploring 5,000+ Netflix titles. | Plotly • Streamlit • Pandas |
 | 🏦 **Loan Approval Prediction** | Intelligent loan approval prediction system. | Python • Machine Learning • Streamlit |
-| 📈 **Sine-Type II Half Logistic Weibull Distribution** | Interactive statistical distribution explorer for research and education. | Python • SciPy • Plotly • Streamlit |
 
 > ⭐ Explore all my repositories here: **https://github.com/trymoremhlanga2000-jpg?tab=repositories**
