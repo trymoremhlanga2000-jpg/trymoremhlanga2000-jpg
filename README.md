@@ -51,27 +51,26 @@ With a **First Class Honours Degree in Applied Statistics**, I bring good statis
 
 ### 🎯 Professional Focus
 
+- 📊 Data Visualization
+- 📈 Data Analytics & Statistical Modelling
+- 📊 Data Science & Predictive Analytics
+- 📉 Business Intelligence
 - 🤖 Machine Learning Engineering
 - 🧠 Artificial Intelligence Solutions
-- 💬 Large Language Models (LLMs)
-- 📊 Data Science & Predictive Analytics
-- 📈 Statistical Modelling
-- 🌐 AI Integration for Web Applications
 - ⚙️ End-to-End Machine Learning Pipelines
-- 📦 Model Deployment & MLOps
-- 📉 Business Intelligence & Data Visualization
+- 📦 Model Deployment
 - ☁️ Cloud-Based AI Solutions
 
 ---
 
-### 💼 Currently
+### 💼 Current Status
 
-- 🔭 Leading the **Machine Learning Department** at **Falcon Inch Intelligences**
-- 🤖 Building AI-powered business solutions
-- 🧠 Developing LLM-powered applications and intelligent assistants
-- 🌐 Integrating AI into modern web applications
+- 🔭 **Machine Learning Engineer** at **Falcon Inch Intelligences**
+- 🤖 Building AI powered business solutions
+- 🧠 Exploring LLMs in business 
+- 🌐 Integrating AI into web applications
 - 📊 Building predictive analytics systems
-- 🚀 Researching emerging AI technologies and production-ready ML solutions
+- 🚀 Researching emerging AI technologies and production ready ML solutions
 
 ---
 
