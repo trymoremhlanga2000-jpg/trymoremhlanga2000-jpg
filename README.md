@@ -1,244 +1,35 @@
-# Trymore Mhlanga
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Statistician+%7C+Data+Analyst;Machine+Learning+%7C+Python;Data+Visualization+%7C+Streamlit;Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🚀 About Me
-
-> *Statistician/Data Scientist and Machine Learning Engineer passionate about turning complex data into actionable insights and deploying interactive analytics solutions.*
-
-**My Portfolio**
-
-https://trymoremhlanga2000-jpg.github.io
-
-- 🎓 **BSc (Hons) in Applied Statistics** – First Class, Midlands State University, Zimbabwe
-- 📍 Based in **Ruwa, Harare**
-- 🔍 Specializing in **Data Analysis, Machine Learning & Interactive Dashboards**
-- 🌱 Currently exploring **Advanced Predictive Modeling, Neural Networks, and Cloud Deployment**
-- 💡 Love building tools and apps that **visualize, simplify, and automate data-driven decisions**
-
----
-## 🛠 *Tech Stack*
+# 👋 Hi, I'm Trymore Mhlanga
 
 <div align="center">
 
-### *Programming Languages*
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<h3>Machine Learning Engineer • Head of Machine Learning Department • AI Solutions Developer • Statistician</h3>
 
-### *Frameworks & Libraries*
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### *Data Collection Tools*
-![Kobo Toolbox](https://img.shields.io/badge/Kobo_Toolbox-00A3E0?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### *Data Analysis & Visualization*
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### *Version Control & Collaboration*
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-### *Containerization & Deployment*
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![DockerHub](https://img.shields.io/badge/DockerHub-0db7ed?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### *Development Tools & Environments*
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FFCA00?style=for-the-badge&logo=jupyter&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge)
-![R Studio](https://img.shields.io/badge/R_Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-
-### *Documentation*
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-00A99D?style=for-the-badge&logo=overleaf&logoColor=white)
-
-</div>
-
----
-## 🏆 *Projects*
-
-<div align="center">
-  
-### 📊 *Credit Risk Prediction* | Loan Default ML System
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trymoremhlanga2000-jpg/Credit-risk)
-
-Python • Pandas • NumPy • scikit-learn • Joblib • Git • GitHub • Streamlit • VS Code
-
-🔹 *End-to-end ML solution* predicting loan defaults with up to 92% accuracy  
-🔹 *Feature engineering and model comparison* including ensemble techniques  
-🔹 *Interactive Streamlit app* for real-time insights and risk assessment  
-🔹 *Clean data pipelines* and visualization for non-technical users
-
----
-
-### 🎬 *Netflix Interactive Dashboard* | Streaming Insights
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trymoremhlanga2000-jpg/Netflix-Interactive-Dashboard)
-
-Streamlit • Python • Pandas • Plotly • NumPy • Git • GitHub
-
-🔹 *Real-time filtering and visualizations* for 5,000+ Netflix titles  
-🔹 *Dynamic exploration of genres, release years, and countries*  
-🔹 *Enhanced decision-making efficiency* with interactive dashboards  
-🔹 *Professional-grade UI* built entirely with Streamlit and Plotly  
-
----
-
-### 🤖 *Movie Revenue Prediction* | Forecasting App
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trymoremhlanga2000-jpg/Prediction-of-Movie-Revenue)
-
-Python • Pandas • NumPy • scikit-learn • Joblib • Git • GitHub • Streamlit
-
-🔹 *Predicts movie revenue and ROI in real-time*  
-🔹 *Data preprocessing of 5000+ movie records*  
-🔹 *Scenario analysis and feature importance exploration*  
-🔹 *Interactive dashboard for content and financial insights*
-
----
-
-### 📊 *Customer Churn Prediction* | Retention ML System
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trymoremhlanga2000-jpg/Customer-Churn)
-
-Python • Pandas • NumPy • scikit-learn • Joblib • Git • GitHub • Streamlit
-
-🔹 *Predicts which customers are likely to leave a service*  
-🔹 *Applied Logistic Regression & Random Forest models achieving 80%+ accuracy*  
-🔹 *End-to-end ML workflow with feature engineering, training, evaluation, and deployment*  
-🔹 *Interactive app for real-time churn insights*
-
----
-
-### 📊 *Loan Approval Prediction* | Loan Approval ML System
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trymoremhlanga2000-jpg/Loan-Default-Prediction)
-
-Python • Pandas • NumPy • scikit-learn • Joblib • Git • GitHub • Streamlit
-
-🔹 *Analyzes factors influencing loan approvals*  
-🔹 *Applied multiple ML models to predict loan approval probability*  
-🔹 *Clean data pipelines and interactive analysis dashboard*  
-
----
-
-### 📊 *Sine-Type II Half Logistic Weibull Distribution* | Probability Explorer
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trymoremhlanga2000-jpg/Sine-Type-II-Half-Logistic-Weibull-Distribution)
-
-Python • Streamlit • NumPy • Matplotlib • Plotly. Git • GitHub
-
-🔹 *Interactive probability distribution explorer*  
-🔹 *Supports Sine-Type II, Half Logistic Weibull, and related distributions*  
-🔹 *Real-time visualization of PDF, CDF, survival and hazard functions*  
-🔹 *Feature sliders for parameter tuning and immediate feedback*  
-
-</div>
-
----
-
-## 🖼️ *Projects Showcase*
-
-<div align="center">
-
-<a href="https://github.com/trymoremhlanga2000-jpg/Credit-risk" title="Credit Risk Prediction: End-to-end ML system predicting loan defaults"><img src="https://raw.githubusercontent.com/trymoremhlanga2000-jpg/Credit-risk/main/assets/credit-risk.png" width="250" style="margin:5px;border-radius:15px;transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"></a>
-
-<a href="https://github.com/trymoremhlanga2000-jpg/Netflix-Interactive-Dashboard" title="Netflix Dashboard: Interactive content insights with real-time filtering"><img src="https://raw.githubusercontent.com/trymoremhlanga2000-jpg/Netflix-Interactive-Dashboard/main/assets/netflix-dashboard.png" width="250" style="margin:5px;border-radius:15px;transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"></a>
-
-<a href="https://github.com/trymoremhlanga2000-jpg/Prediction-of-Movie-Revenue" title="Movie Revenue Prediction: Forecasting app with ROI and revenue insights"><img src="https://raw.githubusercontent.com/trymoremhlanga2000-jpg/Prediction-of-Movie-Revenue/main/assets/movie-revenue.png" width="250" style="margin:5px;border-radius:15px;transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"></a>
-
-<a href="https://github.com/trymoremhlanga2000-jpg/Customer-Churn" title="Customer Churn Prediction: ML system predicting subscriber churn"><img src="https://raw.githubusercontent.com/trymoremhlanga2000-jpg/Customer-Churn/main/assets/customer-churn.png" width="250" style="margin:5px;border-radius:15px;transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"></a>
-
-<a href="https://github.com/trymoremhlanga2000-jpg/Loan-Default-Prediction" title="Loan Approval Prediction: ML system for bank loan approvals"><img src="https://raw.githubusercontent.com/trymoremhlanga2000-jpg/Loan-Default-Prediction/main/assets/loan-approval.png" width="250" style="margin:5px;border-radius:15px;transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"></a>
-
-<a href="https://github.com/trymoremhlanga2000-jpg/Sine-Type-II-Half-Logistic-Weibull-Distribution" title="Sine-Type II Distribution: Interactive probability distribution explorer"><img src="https://raw.githubusercontent.com/trymoremhlanga2000-jpg/Sine-Type-II-Half-Logistic-Weibull-Distribution/main/assets/distribution.png" width="250" style="margin:5px;border-radius:15px;transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"></a>
-
-</div>
-
-<p align="center"><i>💡 Hover over each project for details</i></p>
-
----
-
-
-## 💼 Internship
-
-<details>
-<summary><b>🌐 Loans Officer - Probfix Financial Services</b> <i>(Mar 2023 - Oct 2023)</i></summary>
-
-- 📊 Cleaned and organized client data improving report accuracy by 10%  
-- 🤝 Supported loan assessments for 50+ applications monthly  
-- ⏰ Prepared weekly financial summaries guiding key decisions  
-- 🗄 Managed Excel and database systems with 100% data accuracy  
-
-</details>
-
----
-
-## 🎓 Education
-
-<details>
-<summary><b>🎓 BSc (Hons) Applied Statistics – First Class</b></summary>
-
-*Midlands State University, Zimbabwe* (2021 - 2025)  
-- Strong foundation in probability, predictive modeling, and analytics  
-- Final-year research: Credit risk prediction using Multi-Layer Perceptron + Reject Inference  
-- Exposure to Python, R, STATA, SQL, Tableau, Power BI  
-
-</details>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=trymoremhlanga2000-jpg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trymoremhlanga2000-jpg&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=trymoremhlanga2000-jpg&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🌐 Let's Connect & Build Together!
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://trymoremhlanga2000-jpg.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trymore-mhlanga-4b897b360/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trymoremhlanga5021@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trymoremhlanga2000-jpg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&lines=Head+of+Machine+Learning+Department;Machine+Learning+Engineer+at+Falcon+Inch+Intelligences;Building+AI-Powered+Applications;Integrating+Large+Language+Models+(LLMs);Developing+Production-Ready+Machine+Learning+Solutions;Statistician+%7C+Data+Scientist+%7C+AI+Engineer;Transforming+Data+into+Intelligent+Business+Solutions;Always+Learning+%7C+Always+Building+%7C+Always+Innovating" alt="Typing SVG" />
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💭 "My name is Mr StatMlops"
 
-Thanks for visiting! Let's turn data into insights together! 📊
+![](https://img.shields.io/badge/Current%20Role-Machine%20Learning%20Engineer-success?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-![Profile Views](https://komarev.com/ghpvc/?username=trymoremhlanga2000-jpg&color=blueviolet&style=flat-square&label=Profile+Views)
+![](https://img.shields.io/badge/Leadership-Head%20of%20Machine%20Learning%20Department-blue?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+![](https://img.shields.io/badge/Company-Falcon%20Inch%20Intelligences-black?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+![](https://img.shields.io/badge/Degree-BSc%20(Hons)%20Applied%20Statistics-orange?style=for-the-badge&logo=academia&logoColor=white)
+
+![](https://img.shields.io/badge/Graduation-First%20Class%20Honours-gold?style=for-the-badge)
+
+![](https://img.shields.io/badge/Location-Harare%2C%20Zimbabwe-lightgrey?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### *"Building intelligent systems that transform data into real-world business solutions through Statistics, Machine Learning and Artificial Intelligence."*
 
 </div>
