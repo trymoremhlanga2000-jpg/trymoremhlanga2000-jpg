@@ -30,7 +30,7 @@
 
 <div align="center">
 
-### *"Building intelligent systems that transform data into real-world business solutions through Statistics, Machine Learning and Artificial Intelligence."*
+### *Building intelligent systems that transform data into real-world business solutions through Statistics, Machine Learning and Artificial Intelligence.*
 
 </div>
 
@@ -79,3 +79,119 @@ With a **First Class Honours Degree in Applied Statistics**, I bring good statis
 - 🎓 **BSc (Hons) Applied Statistics — First Class Honours**
 - 📍 Harare, Zimbabwe
 - 💡 Passionate about transforming complex data into intelligent, scalable, and impactful AI solutions.
+
+
+
+
+## 💼 Professional Journey
+
+```text
+2021
+🎓 Began BSc (Hons) Applied Statistics
+│
+├── Built a strong foundation in Statistics, Probability,
+│   Statistical Inference and Data Analysis.
+│
+2023
+💼 Loans Officer Intern
+📍 Probfix Financial Services
+│
+├── Loan assessments
+├── Financial reporting
+├── Data management
+└── Credit risk exposure
+│
+2024 – 2025
+📊 Data Analytics & Machine Learning
+│
+├── Built end-to-end ML projects
+├── Interactive dashboards
+├── Streamlit applications
+├── Statistical modelling
+└── Research in Credit Risk Prediction
+│
+2025
+🥇 Graduated with First Class Honours
+BSc (Hons) Applied Statistics
+│
+└── Research:
+    Credit Risk Prediction using
+    Multi-Layer Perceptron Neural Networks
+    with Reject Inference
+│
+2026 – Present
+🚀 Machine Learning Engineer
+👨‍💼 Head of Machine Learning Department
+📍 Falcon Inch Intelligences
+│
+├── Leading AI initiatives
+├── Building production-ready ML systems
+├── Developing LLM-powered applications
+├── Integrating AI into websites
+├── Designing intelligent automation solutions
+├── Researching emerging AI technologies
+└── Driving AI innovation across company products
+```
+
+---
+
+### 🌟 What I Do
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+
+- Machine Learning Systems
+- LLM Applications
+- AI Integration
+- Intelligent Automation
+- AI Research
+
+</td>
+
+<td width="50%">
+
+### 📊 Data Science
+
+- Predictive Analytics
+- Statistical Modelling
+- Feature Engineering
+- Data Mining
+- Decision Support Systems
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### ⚙️ Machine Learning Engineering
+
+- Model Development
+- Model Deployment
+- MLOps
+- Docker
+- CI/CD Pipelines
+
+</td>
+
+<td>
+
+### 🌐 Software Solutions
+
+- Streamlit Applications
+- AI-powered Websites
+- Business Dashboards
+- API Integration
+- Cloud Deployment
+
+</td>
+
+</tr>
+
+</table>
