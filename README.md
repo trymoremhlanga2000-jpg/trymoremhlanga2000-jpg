@@ -4,7 +4,7 @@
 
 <h3>Statistician • Data Scientist • Machine Learning Engineer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&lines=Head+of+Machine+Learning+Department;Machine+Learning+Engineer+at+Falcon+Inch+Intelligences;Building+AI-Powered+Applications;Integrating+Large+Language+Models+(LLMs);Developing+Production-Ready+Machine+Learning+Solutions;Statistician+%7C+Data+Scientist+%7C+AI+Engineer;Transforming+Data+into+Intelligent+Business+Solutions;Always+Learning+%7C+Always+Building+%7C+Always+Innovating" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&lines=Machine+Learning+Engineer+at+Falcon+Inch+Intelligences;Building+AI-Powered+Applications;Integrating+Large+Language+Models+(LLMs);Developing+Production-Ready+Machine+Learning+Solutions;Statistician+%7C+Data+Scientist+%7C+AI+Engineer;Transforming+Data+into+Intelligent+Business+Solutions;Always+Learning+%7C+Always+Building+%7C+Always+Innovating" alt="Typing SVG" />
 
 </div>
 
