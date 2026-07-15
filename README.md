@@ -1,4 +1,4 @@
-x# Trymore Mhlanga
+# Trymore Mhlanga
 
 <div align="center">
 
@@ -408,3 +408,12 @@ Monitoring & Continuous Improvement
 | 🏦 **Loan Approval Prediction** | Intelligent loan approval prediction system. | Python • Machine Learning • Streamlit |
 
 > ⭐ Explore all my repositories here: **https://github.com/trymoremhlanga2000-jpg?tab=repositories**
+
+
+# 🎓 Education
+
+🎓 **BSc (Hons) Applied Statistics — First Class Honours**  
+**Midlands State University** *(2021 – 2025)*
+
+**Research:** Credit Risk Prediction using Multi-Layer Perceptron Neural Networks with Reject Inference.
+
