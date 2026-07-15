@@ -417,3 +417,106 @@ Monitoring & Continuous Improvement
 
 **Research:** Credit Risk Prediction using Multi-Layer Perceptron Neural Networks with Reject Inference.
 
+
+
+
+# 📚 Currently Learning
+
+- 🤖 Advanced Artificial Intelligence
+- 🧠 Large Language Models (LLMs)
+- ⚙️ MLOps & AI Deployment
+- ☁️ Cloud AI Solutions
+- 🚀 AI Agents & Intelligent Automation
+
+
+
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=trymoremhlanga2000-jpg&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trymoremhlanga2000-jpg&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=trymoremhlanga2000-jpg&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+[![Trymore's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trymoremhlanga2000-jpg&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+
+
+
+
+# 🎯 2026 Goals
+
+- 🚀 Lead impactful AI initiatives
+- 🤖 Build production ready AI systems
+- 🧠 Advance expertise in Large Language Models
+- ⚙️ Master modern MLOps practices
+- ☁️ Deploy scalable AI solutions on cloud platforms
+- 🌍 Contribute to open-source AI and Machine Learning projects
+- 📚 Continue learning and sharing knowledge with the community
+
+
+
+<div align="center">
+
+### ⚡ Fun Fact
+
+**I do not just build Machine Learning models, I build intelligent systems that people can actually use.**
+
+⭐ *If you like my work, consider following my GitHub journey.*
+
+</div>
+
+
+
+
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](https://trymoremhlanga2000-jpg.github.io)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Trymore%20Mhlanga-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/trymore-mhlanga-4b897b360/)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:trymoremhlanga5021@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/trymoremhlanga2000-jpg)
+
+</div>
+
+
+
+
+---
+
+<div align="center">
+
+### 💬 *"Statistics uncovers patterns. Machine Learning predicts outcomes. Artificial Intelligence transforms possibilities into reality."*
+
+**Thanks for stopping by! Feel free to explore my repositories, connect with me, or collaborate on exciting AI and Machine Learning projects.**
+
+![](https://komarev.com/ghpvc/?username=trymoremhlanga2000-jpg&style=for-the-badge&color=blue)
+
+</div>
+
+
+
+
+
