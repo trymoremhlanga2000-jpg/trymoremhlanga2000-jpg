@@ -275,3 +275,126 @@ BSc (Hons) Applied Statistics
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
 </div>
+
+
+
+
+## 🎯 Areas of Expertise
+
+<div align="center">
+
+| 🤖 Artificial Intelligence | 📊 Data Science | 📈 Statistics | ⚙️ Machine Learning Engineering |
+|:--------------------------:|:---------------:|:------------:|:------------------------------:|
+| Machine Learning | Data Analysis | Statistical Modelling | End-to-End ML Pipelines |
+| Large Language Models (LLMs) | Predictive Analytics | Probability Theory | Model Development |
+| AI Integration | Feature Engineering | Hypothesis Testing | Model Evaluation |
+| AI Assistants | Data Wrangling | Regression Analysis | Model Deployment |
+| Intelligent Automation | Data Mining | Classification | MLOps |
+| Prompt Engineering | Data Visualization | Experimental Design | CI/CD for Machine Learning |
+| AI-powered Web Applications | Dashboard Development | Distribution Theory | Dockerized Applications |
+| AI Strategy | Business Intelligence | Forecasting | Production ML Systems |
+
+</div>
+
+---
+
+## 🚀 What I Build
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+
+- AI-powered Web Applications
+- LLM-powered Systems
+- AI Chatbots
+- Intelligent Assistants
+- Business Automation Solutions
+- AI Integration into Existing Platforms
+
+</td>
+
+<td width="50%">
+
+### 📊 Data Science
+
+- Predictive Analytics
+- Business Intelligence Dashboards
+- Interactive Data Applications
+- Decision Support Systems
+- Statistical Reporting
+- Exploratory Data Analysis
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### ⚙️ Machine Learning
+
+- Classification Models
+- Regression Models
+- Customer Analytics
+- Credit Risk Models
+- Recommendation Systems
+- End-to-End ML Solutions
+
+</td>
+
+<td>
+
+### 🌐 Deployment
+
+- Streamlit Applications
+- Docker Containers
+- GitHub Actions CI/CD
+- Cloud-ready Applications
+- REST API Integration
+- Production-ready AI Systems
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 💡 My Engineering Approach
+
+```text
+Business Problem
+        │
+        ▼
+Understanding Requirements
+        │
+        ▼
+Data Collection & Exploration
+        │
+        ▼
+Statistical Analysis
+        │
+        ▼
+Feature Engineering
+        │
+        ▼
+Machine Learning Model Development
+        │
+        ▼
+Evaluation & Optimization
+        │
+        ▼
+Deployment
+        │
+        ▼
+Monitoring & Continuous Improvement
+        │
+        ▼
+Business Impact 🚀
+```
