@@ -37,15 +37,15 @@
 
 ---
 
-## 🚀 About Me
 
-I'm a **Machine Learning Engineer**, **Statistician**, and **Head of the Machine Learning Department** at **Falcon Inch Intelligences**, where I lead the development and integration of Artificial Intelligence solutions into real-world products and business systems.
 
-My work focuses on designing, building, and deploying intelligent applications that help organizations automate processes, improve decision-making, and unlock value from data. I work across the complete machine learning lifecycle—from data acquisition and preprocessing to model development, evaluation, deployment, monitoring, and continuous improvement.
+I am a **Statistics graduate**, and currently a **Machine Learning Engineer** at **Falcon Inch Intelligences**, where I lead the development and integration of Artificial Intelligence solutions into real world products and business systems.
 
-As department lead, I drive AI innovation by researching emerging technologies, integrating **Large Language Models (LLMs)** into software solutions, collaborating with software developers to embed AI capabilities into web applications, and contributing to the company's long-term AI strategy.
+My work focuses on designing, building and deploying intelligent systems that help organizations automate processes, improve decision making, and unlock value from data. I work across the complete machine learning lifecycle, from data acquisition and preprocessing to model development, evaluation, deployment and continuous improvement.
 
-With a **First Class Honours Degree in Applied Statistics**, I combine strong statistical foundations with practical software engineering to develop scalable, production-ready machine learning systems that solve real business challenges.
+As department lead, I drive AI innovation by researching emerging technologies, integrating **Large Language Models (LLMs)** into software solutions, collaborating with software developers to embed AI capabilities into web applications, and contributing to the company's long term AI strategy.
+
+With a **First Class Honours Degree in Applied Statistics**, I bring good statistical foundations and collaborate with software engineers to develop scalable, production ready machine learning systems that solve real business challenges.
 
 ---
 
