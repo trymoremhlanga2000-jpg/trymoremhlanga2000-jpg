@@ -35,6 +35,8 @@
 </div>
 
 
+---
+
 ## 🚀 About Me
 
 I'm a **Machine Learning Engineer**, **Statistician**, and **Head of the Machine Learning Department** at **Falcon Inch Intelligences**, where I lead the development and integration of Artificial Intelligence solutions into real-world products and business systems.
