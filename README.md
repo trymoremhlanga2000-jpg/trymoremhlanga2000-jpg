@@ -288,8 +288,8 @@ BSc (Hons) Applied Statistics
 | Machine Learning | Data Analysis | Statistical Modelling | End-to-End ML Pipelines |
 | Large Language Models (LLMs) | Predictive Analytics | Probability Theory | Model Development |
 | AI Integration | Feature Engineering | Hypothesis Testing | Model Evaluation |
-| AI Assistants | Data Wrangling | Regression Analysis | Model Deployment |
-| Intelligent Automation | Data Mining | Classification | MLOps |
+| AI prediction systems| Data Wrangling | Regression Analysis | Model Deployment |
+| Human Learn| Data Mining | Classification | ML Algorithms |
 | Prompt Engineering | Data Visualization | Experimental Design | CI/CD for Machine Learning |
 | AI-powered Web Applications | Dashboard Development | Distribution Theory | Dockerized Applications |
 | AI Strategy | Business Intelligence | Forecasting | Production ML Systems |
@@ -308,8 +308,8 @@ BSc (Hons) Applied Statistics
 
 ### 🤖 Artificial Intelligence
 
-- AI-powered Web Applications
-- LLM-powered Systems
+- AI powered Web Applications
+- LLM powered Systems
 - AI Chatbots
 - Intelligent Assistants
 - Business Automation Solutions
@@ -354,9 +354,7 @@ BSc (Hons) Applied Statistics
 - Streamlit Applications
 - Docker Containers
 - GitHub Actions CI/CD
-- Cloud-ready Applications
-- REST API Integration
-- Production-ready AI Systems
+- Production ready AI Systems
 
 </td>
 
@@ -394,7 +392,20 @@ Deployment
         │
         ▼
 Monitoring & Continuous Improvement
-        │
-        ▼
-Business Impact 🚀
+        
 ```
+
+
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 💳 **Credit Risk Prediction** | End-to-end ML system for predicting loan defaults with interactive deployment. | Python • scikit-learn • MLflow • Streamlit • Docker |
+| 📊 **Customer Churn Prediction** | Machine learning solution for predicting customer churn with production-ready deployment. | Python • scikit-learn • Docker • Streamlit |
+| 🎬 **Movie Revenue Prediction** | Predicts movie revenue and ROI using machine learning. | Python • Pandas • Streamlit |
+| 📺 **Netflix Interactive Dashboard** | Interactive dashboard for exploring 5,000+ Netflix titles. | Plotly • Streamlit • Pandas |
+| 🏦 **Loan Approval Prediction** | Intelligent loan approval prediction system. | Python • Machine Learning • Streamlit |
+| 📈 **Sine-Type II Half Logistic Weibull Distribution** | Interactive statistical distribution explorer for research and education. | Python • SciPy • Plotly • Streamlit |
+
+> ⭐ Explore all my repositories here: **https://github.com/trymoremhlanga2000-jpg?tab=repositories**
