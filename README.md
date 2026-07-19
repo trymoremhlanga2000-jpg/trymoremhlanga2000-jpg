@@ -81,7 +81,7 @@ With a **First Class Honours Degree in Applied Statistics**, I bring good statis
 - 💡 Passionate about transforming complex data into intelligent, scalable, and impactful AI solutions.
 
 
-
+---
 
 ## 💼 Professional Journey
 
@@ -196,7 +196,7 @@ BSc (Hons) Applied Statistics
 
 </table>
 
-
+---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -276,7 +276,7 @@ BSc (Hons) Applied Statistics
 
 </div>
 
-
+---
 
 
 ## 🎯 Areas of Expertise
@@ -395,7 +395,7 @@ Monitoring & Continuous Improvement
         
 ```
 
-
+---
 
 # 🚀 Featured Projects
 
@@ -409,6 +409,7 @@ Monitoring & Continuous Improvement
 
 > ⭐ Explore all my repositories here: **https://github.com/trymoremhlanga2000-jpg?tab=repositories**
 
+---
 
 # 🎓 Education
 
@@ -418,7 +419,7 @@ Monitoring & Continuous Improvement
 **Research:** Credit Risk Prediction using Multi-Layer Perceptron Neural Networks with Reject Inference.
 
 
-
+---
 
 # 📚 Currently Learning
 
@@ -429,7 +430,7 @@ Monitoring & Continuous Improvement
 - 🚀 AI Agents & Intelligent Automation
 
 
-
+---
 
 # 📊 GitHub Analytics
 
@@ -447,7 +448,7 @@ Monitoring & Continuous Improvement
 
 </div>
 
-
+---
 
 # 📈 Contribution Graph
 
@@ -458,7 +459,7 @@ Monitoring & Continuous Improvement
 </div>
 
 
-
+---
 
 
 # 🎯 2026 Goals
@@ -471,7 +472,7 @@ Monitoring & Continuous Improvement
 - 🌍 Contribute to open-source AI and Machine Learning projects
 - 📚 Continue learning and sharing knowledge with the community
 
-
+---
 
 <div align="center">
 
@@ -484,14 +485,12 @@ Monitoring & Continuous Improvement
 </div>
 
 
-
+---
 
 
 # 🤝 Let's Connect
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](https://trymoremhlanga2000-jpg.github.io)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Trymore%20Mhlanga-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/trymore-mhlanga-4b897b360/)
 
@@ -510,13 +509,13 @@ Monitoring & Continuous Improvement
 
 ### 💬 *"Statistics uncovers patterns. Machine Learning predicts outcomes. Artificial Intelligence transforms possibilities into reality."*
 
-**Thanks for stopping by! Feel free to explore my repositories, connect with me, or collaborate on exciting AI and Machine Learning projects.**
+**Thanks for stopping by! Feel free to explore my repositories, connect with me, or collaborate on my projects.**
 
 ![](https://komarev.com/ghpvc/?username=trymoremhlanga2000-jpg&style=for-the-badge&color=blue)
 
 </div>
 
 
-
+---
 
 
