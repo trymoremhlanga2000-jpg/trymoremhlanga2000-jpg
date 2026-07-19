@@ -491,13 +491,13 @@ Monitoring & Continuous Improvement
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Trymore%20Mhlanga-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/trymore-mhlanga-4b897b360/)
-
-[![Facebook](https://img.shields.io/badge/Facebook-Trymore%20Mhlanga-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1DFu5muJQC/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:trymoremhlanga5021@gmail.com)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/263786354175)
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:trymoremhlanga5021@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Trymore%20Mhlanga-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/trymore-mhlanga-4b897b360/)
+
+[![Facebook](https://img.shields.io/badge/Facebook-Trymore%20Mhlanga-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1DFu5muJQC/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/trymoremhlanga2000-jpg)
 
